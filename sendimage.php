@@ -10,7 +10,7 @@ $cmd = "image"; //
 $id = ""; //Unique ID: It will be usefull to identify the messages in events
 $to = "5511900000000@c.us"; // Its phone number with country prefix. tag: @c.us for contact.
 $msg = "HelloWord"; // message	
-$link = "https://i.imgur.com/7Cm1HSp.png"; // Image URL.Use with: cmd = "image"	
+$link = "https://i.imgur.com/7Cm1HSp.png"; 
 $ch = curl_init();	
 curl_setopt($ch, CURLOPT_URL, "https://winzap.me/api");	
 curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);	
