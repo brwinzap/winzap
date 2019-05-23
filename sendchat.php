@@ -1,4 +1,4 @@
-<?php 
+<?php
 // WHATSAPP API
 // www.winzap.com.br/
 // www.winzap.com.br/admin
